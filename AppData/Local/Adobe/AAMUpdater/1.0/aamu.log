@@ -1,0 +1,78 @@
+2022-07-08T13:25:01: >>> Adobe Updater Log Begin >>>
+2022-07-08T13:25:01: UpdaterCoreImpl::InitLogFile : Application Version 6.0.0.67
+2022-07-08T13:25:01: UpdaterCoreImpl::InitLogFile : cmdline option --> -logFile = C:\Users\Gateway\AppData\Local\Adobe\AAMUpdater\1.0\aamu.log
+2022-07-08T13:25:01: UpdaterCoreImpl::InitLogFile : cmdline option --> -logLevel = 2
+2022-07-08T13:25:01: UCInitialize : AAMLauncher was NOT running.
+2022-07-08T13:25:01: UpdateTracker::CheckSignature(): Missing CSUTracker.xml. Checking if it is updater's first run..
+2022-07-08T13:25:01: UpdaterCore : Returning from << UCInitialize >> Returning with outErr Value =>  = 0
+2022-07-08T13:25:02: UCProcessPatchProgress : Receive Packet ID = . = 0
+2022-07-08T13:25:02: GetDEVersion returned 6.0
+2022-07-08T13:25:02: Exiting GetDEVersion with return  = 1
+2022-07-08T13:25:04: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:04: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:05: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:17: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:21: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:21: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:22: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:23: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:23: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:24: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:25: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:26: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:27: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:28: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:29: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:30: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:31: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:32: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:33: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:34: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:35: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:36: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:37: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:38: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:39: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:40: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:41: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:42: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:43: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:44: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:45: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:46: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:47: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:48: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:49: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:50: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:51: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:52: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:53: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:54: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:55: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:56: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:57: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:57: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:58: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:25:59: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:26:00: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:26:01: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:26:02: UCProcessPatchProgress : Receive Packet ID = . = 15
+2022-07-08T13:26:03: UCProcessPatchProgress : Receive Packet ID = . = 16
+2022-07-08T13:26:04: UCProcessPatchProgress : Receive Packet ID = . = 17
+2022-07-08T13:26:05: UCProcessPatchProgress : Receive Packet ID = . = 11
+2022-07-08T13:26:05: UCProcessPatchProgress : Received Restart request message.
+2022-07-08T13:26:05: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:26:06: UCProcessPatchProgress : Receive Packet ID = . = 9
+2022-07-08T13:26:07: UCProcessPatchProgress : Receive Packet ID = . = 13
+2022-07-08T13:26:07: UCProcessPatchProgress : Received Done from patch installer along with exit code value0
+2022-07-08T13:26:07: UCGetprogress : Updates install returning state for reffId  = AdobePhotoshopCS6Support-13.0/13.0.1
+2022-07-08T13:26:07: UCGetprogress : Updates install returning state     = 46
+2022-07-08T13:26:07: UCGetprogress : Updates install returning outError  = 0
+2022-07-08T13:26:07: UCGetprogress : Updates install returning percent   = 100
+2022-07-08T13:26:07: UCGetprogress : Updates install returning unique error code string   = U46M2P0
+2022-07-08T13:26:07: UCGetprogress : Updates install returning Error string  = 
+2022-07-08T13:57:14: Returning from << UCTerminate >> call with value = 1
+2022-07-08T13:57:14: UpdaterCoreImpl::ShutdownLogFile : Going to call ShutdownESDLogFile()
+2022-07-08T13:57:14: <<< Adobe Updater Log End <<<
+
+

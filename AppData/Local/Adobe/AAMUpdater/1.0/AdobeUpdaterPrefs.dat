@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Preferences>
+<LogFile>C:\Users\Gateway\AppData\Local\Adobe\AAMUpdater\1.0\aamu.log</LogFile>
+<LogLevel>2</LogLevel>
+<WebFeedEtag></WebFeedEtag>
+<WebFeedSize>0</WebFeedSize>
+<WebFeedSeqNo>0</WebFeedSeqNo>
+<LastDateCheck></LastDateCheck>
+<CSUVersion>6.0</CSUVersion>
+<ChannelsEnabled>
+<MapPrefEntry MapPrefKey="AdobeAPE3.3_Win64_NoLocale">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeAPE3.3_Win_NoLocale">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeApplicationManager-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeBridgeCS6-5.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeBridgeCS664Bit-5.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeCMapsCS6-4.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeCMapsx64CS6-4.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeCSXSExtensionsCS6-3">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeCSXSInfrastructureCS6-3">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeColor-PhotoshopSpecificCS6-4.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeColorCommonSetCMYK-4.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeColorCommonSetRGB-4.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeColorEURecommendedSettingsCS6-4.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeColorJAExtraSettingsCS6-4.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeColorNAExtraSettingsCS6-4.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeColorVideoProfilesCSCS6-4.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeDynamicLinkMediaServer-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeDynamiclinkSupport-6">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeESTKCS6-3.8.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeExtensionManagerCS6-6.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeFontsRecommended-2.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeFontsRecommendedx64-2.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeFontsRequired-2.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeFontsRequiredx64-2.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeHunspellLinguisticsPluginCS6-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeHunspellLinguisticsPluginCS6x64-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeLinguisticsCS6-6.0.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeLinguisticsCS6x64-6.0.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeMiniBridgeCS6-2">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobePDFLibraryFilesCS6-10.9">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobePDFLibraryFilesx64CS6-10.9">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobePhotoshop13Driver-13.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobePhotoshopCS6-13.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobePhotoshopCS664Bit-13.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobePhotoshopCS6ILEnglishLanguagePack-13.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobePhotoshopCS6ILEnglishLanguagePack_x64-13.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobePhotoshopCS6Support-13.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeSwitchBoard2.0-2.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeTypeSupportCS6-11.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeTypeSupportx64CS6-11.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeWinSoftLinguisticsPluginCS6-1.3">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeWinSoftLinguisticsPluginCS6x64-1.3">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeXMPPanels-4.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="CSTI_CS6-3.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="CameraProfilesInstaller-7.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="PDFSettingsCS6-11.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="PhotoshopCameraRaw7-7.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="PhotoshopCameraRaw764bit-7.0">1</MapPrefEntry>
+</ChannelsEnabled>
+<NotificationLogFile>C:\Users\Gateway\AppData\Local\Adobe\AAMUpdater\1.0\aamun.log</NotificationLogFile>
+<StartupLogFile>C:\Users\Gateway\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log</StartupLogFile>
+</Preferences>
